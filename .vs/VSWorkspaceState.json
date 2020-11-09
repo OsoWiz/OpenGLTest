@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dependencies",
+    "\\Dependencies\\GLEW",
+    "\\Dependencies\\GLEW\\include",
+    "\\Dependencies\\GLEW\\include\\GL",
+    "\\OpenGLTest"
+  ],
+  "SelectedNode": "\\OpenGLTest.sln",
+  "PreviewInSolutionExplorer": false
+}
